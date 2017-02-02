@@ -4,10 +4,28 @@
   font-family: Roboto;
 }
 
+.links {
+  width: 75%;
+  font-family: Roboto;
+}
+
 .thmb {
   padding: 5px;
   max-width: 40%;
   border: 1px solid #F6F7F4;
   margin: 10px;
   float: left;
+}
+
+.demo-links {
+  position: absolute;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: 50px;
+}
+
+.title {
+  position: absolute;
+  left: 50%;
+  margin-left: -150px;
 }

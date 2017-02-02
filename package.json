@@ -1,0 +1,15 @@
+{
+  "name": "jot",
+  "version": "1.0.0",
+  "description": "joy of tipping",
+  "main": "server.js",
+  "repository": "git@github.com:varun-fissionhq/jot.git",
+  "author": "Varun <saivarunk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.25.1",
+    "hapi": "^16.1.0",
+    "inert": "^4.1.0",
+    "vision": "^4.1.1"
+  }
+}

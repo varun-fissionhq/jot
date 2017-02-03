@@ -8,7 +8,7 @@ const config = require('config');
 const server = new Hapi.Server();
 
 server.connection({
-  host: config.server.host,
+  // host: config.server.host,
   port: config.server.port
 });
 

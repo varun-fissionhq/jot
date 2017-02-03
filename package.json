@@ -6,6 +6,9 @@
   "repository": "git@github.com:varun-fissionhq/jot.git",
   "author": "Varun <saivarunk@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "config": "^1.25.1",
     "hapi": "^16.1.0",

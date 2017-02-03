@@ -1,9 +1,8 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "joyoftipping",
+    "namespace": "android_app",
     "package_name": "com.zazmic.joyoftipping",
-    "sha256_cert_fingerprints":
-    ["4E:1A:AE:62:4C:E5:82:3B:B9:FD:58:C3:76:D0:0C:FD:17:E7:BE:9D:94:71:96:21:CF:91:EC:A7:07:45:EF:EE"]
+    "sha256_cert_fingerprints": ["4E:1A:AE:62:4C:E5:82:3B:B9:FD:58:C3:76:D0:0C:FD:17:E7:BE:9D:94:71:96:21:CF:91:EC:A7:07:45:EF:EE"]
   }
 }]
